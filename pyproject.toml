@@ -1,0 +1,22 @@
+[project]
+name = "barbados-cadastral"
+version = "0.1.0"
+dependencies = [
+    "opencv-python",
+    "numpy",
+    "matplotlib",
+    "pytesseract",
+    "pandas",
+    "pillow",
+    "regex",
+    "rapidfuzz",
+    "torch",
+    "torchvision",
+    "segmentation-models-pytorch",
+    "albumentations",
+    "shapely",
+    "geopandas",
+    "rasterio",
+    "scikit-learn",
+    "tqdm",
+]
